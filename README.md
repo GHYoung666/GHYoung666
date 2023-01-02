@@ -1,12 +1,22 @@
-### Hi there 👋
 
-**GHYoung666/GHYoung666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 个人信息
 
-Here are some ideas to get you started:
+ - 顾豪阳
+ - 本科/东南大学/电子科学与工程学院
+ - 摆dog一个
 
-- 🔭 I’m a student in SEU
-- 🌱 I’m currently learning Electronic Science & Engineering
-- 📫 How to reach me: Mail:1443938036@qq.com WeChat:ghy020628
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 联系方式
+
+- 手机：13625226928
+- Email：1443938036@qq.com
+- 微信号：ghy020628
+
+
+# 项目经历
+
+## srtp项目
+面向无线传感的RF唤醒电路
+
+
+# 致谢
+感谢您花时间阅读我的信息，摆√一个，英语不好用中文写了
